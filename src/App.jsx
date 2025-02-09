@@ -6,6 +6,7 @@ import Layout from './Components/Layout/Layout';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import About from './Components/About/About';
 import Powerd from './Components/Powerd/Powerd';
+import Media from './Components/Media/Media';
 
 
 const router = createBrowserRouter([
@@ -13,7 +14,7 @@ const router = createBrowserRouter([
     {path: "", element: <Main/> },
     {path: "/about", element: <About/> },
     {path: "/powerd-by", element: <Powerd/> },
-    // {path: "register", element: <Register/> },
+    {path: "/media", element: <Media/> },
     // {path: "login", element: <Login/> },
     // {path: "logout", element: <Logout/> },
     // {path: "nav", element: <Navbar/> },
