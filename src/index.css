@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.langar-regular {
+  font-family: "Langar", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.z-top{
+  z-index: 999999;
+}
+.one{
+  @apply flex justify-between items-center gap-4;
+}
+/*  */
+/* .main-bg{
+  background-image: url('../src/assets/images/main-bg.jpg');
+} */
