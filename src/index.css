@@ -11,7 +11,3 @@
 .one{
   @apply flex justify-between items-center gap-4;
 }
-/*  */
-/* .main-bg{
-  background-image: url('../src/assets/images/main-bg.jpg');
-} */

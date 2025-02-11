@@ -4,7 +4,7 @@ import React from "react";
 export default function Launch() {
   return (
     <>
-      <section className="langar-regular my-10 py-10">
+      <section id="launch" className="langar-regular my-10 py-10">
         <h1 className="text-[#946521] text-6xl mb-20 text-center">
           Launching In
         </h1>

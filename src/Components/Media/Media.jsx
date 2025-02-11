@@ -13,7 +13,7 @@ import photo_nine from "../../assets/images/photo 9.jpeg";
 
 export default function Media() {
   return <>
-        <section className="mb-20">
+        <section id="media" className="mb-20">
         <h1 className="text-[#946521] text-6xl mb-20 langar-regular text-center">Media</h1>
             <div className="columns-2 mt-5 [&>img]:mb-5 [&>img]:rounded-2xl lg:columns-3 xl:columns-4 w-[85%] mx-auto ">
             <img src={photo_one} alt="" />

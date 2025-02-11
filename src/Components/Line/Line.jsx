@@ -6,7 +6,7 @@ import hoba from "../../assets/images/hoba.jpeg";
 export default function Line() {
   return (
     <>
-      <section className="langar-regular w-[85%] mx-auto py-20 flex justify-center items-center flex-col gap-32 ">
+      <section id="line" className="langar-regular w-[85%] mx-auto py-20 flex justify-center items-center flex-col gap-32 ">
         <h1 className="text-[#946521] text-6xl mb-20 text-center ">Line Up</h1>
         <div className="flex justify-between items-center">
           <div className="image w-1/2">

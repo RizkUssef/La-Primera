@@ -1,13 +1,13 @@
 // import { View, Text } from "react-native";
 import React from "react";
 import tic_one from "../../assets/images/tic 1.svg";
-import tic_two from "../../assets/images/tic 2.svg";
-import tic_three from "../../assets/images/tic 3.svg";
+import tic_two from "../../assets/images/double tic.svg";
+import tic_three from "../../assets/images/Group tic.svg";
 
 export default function Ticket() {
   return (
     <>
-      <section className="langar-regular w-[85%] mx-auto py-10">
+      <section id="ticket" className="langar-regular w-[85%] mx-auto py-10">
         <h1 className="text-[#946521] text-6xl mb-20 text-center">
           Buy Ticket
         </h1>

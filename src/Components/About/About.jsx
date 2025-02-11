@@ -1,10 +1,10 @@
 // import { View, Text } from "react-native";
-import React from "react";
+import React, { useEffect, useState } from "react";
 
-export default function About() {
+export default function About() {      
   return (
     <>
-      <section className="flex justify-center items-center flex-col langar-regular w-[85%] mx-auto h-[70vh]">
+      <section id="about" className="flex justify-center items-center flex-col langar-regular w-[85%] mx-auto h-[70vh]">
         <h1 className="text-[#946521] text-6xl mb-10">About</h1>
         <p className="text-black mb-5">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sunt
