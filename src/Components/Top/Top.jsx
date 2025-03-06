@@ -1,12 +1,30 @@
-import React from "react";
+import React, {useState , useEffect} from "react";
 import "@fortawesome/fontawesome-free";
-import { Link} from "react-scroll";
+import { Link } from "react-scroll";
 
 export default function Top() {
+      const [goUp , setGoUp] = useState(false);
     
+      useEffect(() => {
+        const handleScroll = () => {
+          const scrolledHeight = window.scrollY;
+          const viewportHeight = window.innerHeight;
+          // console.log(scrolledHeight,viewportHeight)
+          if (scrolledHeight >= viewportHeight) {
+            setGoUp(true);
+            // setScrolled(true);
+          } else {
+            setGoUp(false);
+            // setScrolled(false);
+          }
+        };
+    
+        window.addEventListener("scroll", handleScroll);
+        return () => window.removeEventListener("scroll", handleScroll);
+      },[])
   return (
     <>
-      <section className="fixed bottom-[70px] right-[50px]">
+      <section className="bottom-[70px] right-[50px] transition-opacity duration-1000 ease-in-out" style={goUp ? {position : "fixed"} : {display: "none"}}>
         <Link
           to="main"
           smooth={true}
