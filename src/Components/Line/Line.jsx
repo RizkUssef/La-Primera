@@ -38,7 +38,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/200881825&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -50,7 +50,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231581762&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -62,7 +62,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245631936&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -74,7 +74,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85542539&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -114,7 +114,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192997372&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -126,7 +126,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/119190378&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -138,7 +138,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/78179368&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
@@ -150,7 +150,7 @@ export default function Line() {
                   width="95%"
                   height="80"
                   scrolling="no"
-                  frameborder="no"
+                  frameBorder="no"
                   allow="autoplay"
                   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95612734&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
                 ></iframe>
